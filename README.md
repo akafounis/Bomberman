@@ -1,4 +1,4 @@
-#Bomberman Multiplayer Game
+# Bomberman Multiplayer Game
 
 ![alt text](images/2players.jpg)
 
